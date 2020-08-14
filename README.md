@@ -1,1 +1,1 @@
-Initial Checkin.
+# SmartThingsSnippets
